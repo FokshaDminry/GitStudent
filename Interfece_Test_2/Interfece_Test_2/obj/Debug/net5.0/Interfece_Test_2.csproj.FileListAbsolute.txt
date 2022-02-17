@@ -1,0 +1,16 @@
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\bin\Debug\net5.0\Interfece_Test_2.exe
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\bin\Debug\net5.0\Interfece_Test_2.deps.json
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\bin\Debug\net5.0\Interfece_Test_2.runtimeconfig.json
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\bin\Debug\net5.0\Interfece_Test_2.runtimeconfig.dev.json
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\bin\Debug\net5.0\Interfece_Test_2.dll
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\bin\Debug\net5.0\ref\Interfece_Test_2.dll
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\bin\Debug\net5.0\Interfece_Test_2.pdb
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.csproj.AssemblyReference.cache
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.AssemblyInfoInputs.cache
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.AssemblyInfo.cs
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.csproj.CoreCompileInputs.cache
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.dll
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\ref\Interfece_Test_2.dll
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.pdb
+D:\Проекты\Interfece_Test_2\Interfece_Test_2\obj\Debug\net5.0\Interfece_Test_2.genruntimeconfig.cache
