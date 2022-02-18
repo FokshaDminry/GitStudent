@@ -1,0 +1,16 @@
+D:\Проекты\Equals\Equals\bin\Debug\net5.0\Equals.exe
+D:\Проекты\Equals\Equals\bin\Debug\net5.0\Equals.deps.json
+D:\Проекты\Equals\Equals\bin\Debug\net5.0\Equals.runtimeconfig.json
+D:\Проекты\Equals\Equals\bin\Debug\net5.0\Equals.runtimeconfig.dev.json
+D:\Проекты\Equals\Equals\bin\Debug\net5.0\Equals.dll
+D:\Проекты\Equals\Equals\bin\Debug\net5.0\ref\Equals.dll
+D:\Проекты\Equals\Equals\bin\Debug\net5.0\Equals.pdb
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.csproj.AssemblyReference.cache
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.AssemblyInfoInputs.cache
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.AssemblyInfo.cs
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.csproj.CoreCompileInputs.cache
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.dll
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\ref\Equals.dll
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.pdb
+D:\Проекты\Equals\Equals\obj\Debug\net5.0\Equals.genruntimeconfig.cache
