@@ -1,0 +1,16 @@
+D:\Проекты\List_test\List_test\bin\Debug\net5.0\List_test.exe
+D:\Проекты\List_test\List_test\bin\Debug\net5.0\List_test.deps.json
+D:\Проекты\List_test\List_test\bin\Debug\net5.0\List_test.runtimeconfig.json
+D:\Проекты\List_test\List_test\bin\Debug\net5.0\List_test.runtimeconfig.dev.json
+D:\Проекты\List_test\List_test\bin\Debug\net5.0\List_test.dll
+D:\Проекты\List_test\List_test\bin\Debug\net5.0\ref\List_test.dll
+D:\Проекты\List_test\List_test\bin\Debug\net5.0\List_test.pdb
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.csproj.AssemblyReference.cache
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.AssemblyInfoInputs.cache
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.AssemblyInfo.cs
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.csproj.CoreCompileInputs.cache
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.dll
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\ref\List_test.dll
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.pdb
+D:\Проекты\List_test\List_test\obj\Debug\net5.0\List_test.genruntimeconfig.cache
