@@ -1,0 +1,16 @@
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.csproj.AssemblyReference.cache
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.AssemblyInfoInputs.cache
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.AssemblyInfo.cs
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.csproj.CoreCompileInputs.cache
+D:\Проекты\OOP-Test\OOP-Test\bin\Debug\net5.0\OOP-Test.exe
+D:\Проекты\OOP-Test\OOP-Test\bin\Debug\net5.0\OOP-Test.deps.json
+D:\Проекты\OOP-Test\OOP-Test\bin\Debug\net5.0\OOP-Test.runtimeconfig.json
+D:\Проекты\OOP-Test\OOP-Test\bin\Debug\net5.0\OOP-Test.runtimeconfig.dev.json
+D:\Проекты\OOP-Test\OOP-Test\bin\Debug\net5.0\OOP-Test.dll
+D:\Проекты\OOP-Test\OOP-Test\bin\Debug\net5.0\ref\OOP-Test.dll
+D:\Проекты\OOP-Test\OOP-Test\bin\Debug\net5.0\OOP-Test.pdb
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.dll
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\ref\OOP-Test.dll
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.pdb
+D:\Проекты\OOP-Test\OOP-Test\obj\Debug\net5.0\OOP-Test.genruntimeconfig.cache
